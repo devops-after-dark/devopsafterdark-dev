@@ -130,7 +130,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = ">_"
-    logoText     = "$ adilio.io"
+    logoText     = "$ git commit -m 'devoops'"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -153,7 +153,7 @@ disableHugoGeneratorInject = false
   # Uncomment this if you want a portrait on your start page
   #
  [params.portrait]
-   path     = "/img/portrait.jpg"
+   path     = "/img/logo.png"
    alt      = "Portrait"
    maxWidth = "300px"
 
